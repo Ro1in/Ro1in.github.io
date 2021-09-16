@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Ro1in.github.io</id>
-    <title>Ro1in&apos;s Blog</title>
-    <updated>2021-09-16T14:22:12.757Z</updated>
+    <title>Ro1in</title>
+    <updated>2021-09-16T14:25:27.313Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Ro1in.github.io"/>
     <link rel="self" href="https://Ro1in.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://Ro1in.github.io/images/avatar.png</logo>
     <icon>https://Ro1in.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Ro1in&apos;s Blog</rights>
+    <rights>All rights reserved 2021, Ro1in</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://Ro1in.github.io/post/hello-gridea/</id>
